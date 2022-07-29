@@ -1,2 +1,2 @@
-# atlas.finance
+# Artic Ice Finance
 Crypto Bank
